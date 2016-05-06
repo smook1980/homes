@@ -1,2 +1,4 @@
 package: github.com/smook1980/homes
-import: []
+import:
+- package: github.com/onsi/ginkgo
+- package: github.com/onsi/gomega
